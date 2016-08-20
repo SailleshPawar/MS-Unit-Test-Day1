@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainProject", "MainProject\MainProject.csproj", "{4EFBA108-68D3-4125-8B0B-85A4BD8CF813}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arithmetic", "Arithmetic\Arithmetic.csproj", "{16AAEF60-0D1D-40FC-9C1D-7F858219CE8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithmeticTest", "ArithmeticTest\ArithmeticTest.csproj", "{9469C746-3B84-4215-95E4-87FCFDAA14EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4EFBA108-68D3-4125-8B0B-85A4BD8CF813}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EFBA108-68D3-4125-8B0B-85A4BD8CF813}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EFBA108-68D3-4125-8B0B-85A4BD8CF813}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EFBA108-68D3-4125-8B0B-85A4BD8CF813}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16AAEF60-0D1D-40FC-9C1D-7F858219CE8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16AAEF60-0D1D-40FC-9C1D-7F858219CE8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16AAEF60-0D1D-40FC-9C1D-7F858219CE8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16AAEF60-0D1D-40FC-9C1D-7F858219CE8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9469C746-3B84-4215-95E4-87FCFDAA14EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9469C746-3B84-4215-95E4-87FCFDAA14EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9469C746-3B84-4215-95E4-87FCFDAA14EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9469C746-3B84-4215-95E4-87FCFDAA14EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
